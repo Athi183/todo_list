@@ -1,1 +1,1 @@
-# todo_list
+# A perfect todo list using Python
